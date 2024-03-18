@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+</head>
+<body>
+    <form action="ler_dados.php" method="post">
+        <p><u>Dados Pessoais</u></p>
+        <p>Nome:
+            <input type="text" name="nome"/>
+        </p>
+        <p>Idade:
+            <input type="number" name="idade" min="0" max="110"/>
+        </p>
+        <p>Estado:
+            <select name="estado">
+                <option value=""></option>
+                <option value="PR">Paraná</option>
+                <option value="SC">Santa Catarina</option>
+                <option>Rio Grande do Sul</option>
+            </select>
+        </p>
+        <p>Sexo:
+            <input type="radio" name="sexo" value="M"/>Masculino
+            <input type="radio" name="sexo" value="F"/>Feminino
+        </p>
+        <p>
+            <input type="checkbox" name="tablet" value="Sim"/>
+            Possui Tablet ?
+        </p>
+        <p>
+            <input type="submit" name="enviar" value="ENVIAR"/>
+        </p>
+        <input type="hidden" name="escondido" value="segredo"/>
+    </form>
+</body>
+</html>
