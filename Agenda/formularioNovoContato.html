@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agenda Telefônica</title>
+</head>
+<body>
+    <form action="gravarNovoContato.php" method="post">
+        <p><u><strong>Novo contato</strong></u></p>
+        <p>Nome:
+            <input type="text" name="nome" maxlength="40" size="40"/>
+        </p>
+        <p>Tipo:
+            <select name="tipo">
+                <option value=""></option>
+                <option value="residencial">Residencial</option>
+                <option value="comercial">Comercial</option>
+            </select>
+        </p>
+        <p>Número:
+            <input type="text" name="numero"/>
+        </p>
+        <p>
+            <input type="submit" name="adicionar" value="ADICIONAR"/>
+        </p>
+    </form>
+</body>
+</html>
