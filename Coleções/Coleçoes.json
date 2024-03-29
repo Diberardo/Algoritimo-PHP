@@ -1,0 +1,138 @@
+[
+    {
+        "Nome": "Moeda da entrega da bandeira olímpica",
+        "Preço": "entre R$ 175 e R$ 300",
+        "Anodefabricação": "2012",
+        "Tiragem": "2 milhões",
+        "Valorfacial": "1 real",
+        "imagem": "Bandeira.jpg"
+    },
+    {
+        "Nome": "Atletismo",
+        "Preço": "entre R$ 8 e R$ 30",
+        "Anodefabricação": "2014",
+        "Tiragem": "20 milhões",
+        "Valorfacial": "1 real",
+        "imagem": "Atletismo.jpg"
+    },
+    {
+        "Nome": "Natação",
+        "Preço": "entre R$ 8 e R$ 30",
+        "Anodefabricação": "2014",
+        "Tiragem": "20 milhões",
+        "Valorfacial": "1 real",
+        "imagem": "Natação.jpg"
+    },
+    {
+        "Nome": "Golfe",
+        "Preço": "entre R$ 8 e R$ 30",
+        "Anodefabricação": "2014",
+        "Tiragem": "20 milhões",
+        "Valorfacial": "1 real",
+        "imagem": "Golfe.jpg"
+    },
+    {
+        "Nome": "Paratriatlo",
+        "Preço": "entre R$ 8 e R$ 30",
+        "Anodefabricação": "2014",
+        "Tiragem": "20 milhões",
+        "Valorfacial": "1 real",
+        "imagem": "Paratriatlo.jpg"
+    },
+    {
+        "Nome": "Rugby",
+        "Preço": "entre R$ 8 e R$ 30",
+        "Anodefabricação": "2015",
+        "Tiragem": "20 milhões",
+        "Valorfacial": "1 real",
+        "imagem": "Rugby.jpg"
+    },
+    {
+        "Nome": "Vela",
+        "Preço": "entre R$ 8 e R$ 30",
+        "Anodefabricação": "2015",
+        "Tiragem": "20 milhões",
+        "Valorfacial": "1 real",
+        "imagem": "Vela.jpg"
+    },
+    {
+        "Nome": "Basquete",
+        "Preço": "entre R$ 8 e R$ 30",
+        "Anodefabricação": "2015",
+        "Tiragem": "20 milhões",
+        "Valorfacial": "1 real",
+        "imagem": "Basquebol.jpg"
+    },
+    {
+        "Nome": "Paracanoagem",
+        "Preço": "entre R$ 8 e R$ 30",
+        "Anodefabricação": "2015",
+        "Tiragem": "20 milhões",
+        "Valorfacial": "1 real",
+        "imagem": "Paracanoagem.jpg"
+    },
+    {
+        "Nome": "Judô",
+        "Preço": "entre R$ 8 e R$ 30",
+        "Anodefabricação": "2015",
+        "Tiragem": "20 milhões",
+        "Valorfacial": "1 real",
+        "imagem": "Judô.jpg"
+    },
+    {
+        "Nome": "Atletismo Paralímpico",
+        "Preço": "entre R$ 8 e R$ 30",
+        "Anodefabricação": "2015",
+        "Tiragem": "20 milhões",
+        "Valorfacial": "1 real",
+        "imagem": "atletismo Paralímpico.jpg"
+    },
+    {
+        "Nome": "Voleibol",
+        "Preço": "entre R$ 8 e R$ 30",
+        "Anodefabricação": "2015",
+        "Tiragem": "20 milhões",
+        "Valorfacial": "1 real",
+        "imagem": "Volei.jpg"
+    },
+    {
+        "Nome": "Futebol",
+        "Preço": "entre R$ 8 e R$ 30",
+        "Anodefabricação": "2015",
+        "Tiragem": "20 milhões",
+        "Valorfacial": "1 real",
+        "imagem": "Futebol.jpg"
+    },
+    {
+        "Nome": "Boxe",
+        "Preço": "entre R$ 8 e R$ 30",
+        "Anodefabricação": "2016",
+        "Tiragem": "20 milhões",
+        "Valorfacial": "1 real",
+        "imagem": "boxe.jpg"
+    },
+    {
+        "Nome": "Natação Paralímpica",
+        "Preço": "entre R$ 8 e R$ 30",
+        "Anodefabricação": "2016",
+        "Tiragem": "20 milhões",
+        "Valorfacial": "1 real",
+        "imagem": "Natação Palimpca.jpg"
+    },
+    {
+        "Nome": "Mascote Vinicius",
+        "Preço": "entre R$ 8 e R$ 30",
+        "Anodefabricação": "2016",
+        "Tiragem": "20 milhões",
+        "Valorfacial": "1 real",
+        "imagem": "Vinicios.jpg"
+    },
+    {
+        "Nome": "Mascote Tom",
+        "Preço": "entre R$ 8 e R$ 30",
+        "Anodefabricação": "2016",
+        "Tiragem": "20 milhões",
+        "Valorfacial": "1 real",
+        "imagem": "tom.jpg"
+    }
+]
